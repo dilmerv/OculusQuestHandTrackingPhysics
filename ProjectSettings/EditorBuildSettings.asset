@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/CubesAndBalls.unity
     guid: 0d0cd1e59a9ec485195457dc049c1e2e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HandTrackingWithHingeJoints.unity
     guid: c6800c8c5024b49eebd5494c7597ab7e
+  - enabled: 1
+    path: Assets/Scenes/Buttons.unity
+    guid: dcb9ba29274e343858a5d1cb48795a58
   m_configObjects: {}
